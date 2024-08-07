@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\bin\Debug\net8.0\check_nam_nhuan.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\bin\Debug\net8.0\check_nam_nhuan.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\bin\Debug\net8.0\check_nam_nhuan.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\bin\Debug\net8.0\check_nam_nhuan.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\bin\Debug\net8.0\check_nam_nhuan.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\refint\check_nam_nhuan.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\check_nam_nhuan.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\check_nam_nhuan\obj\Debug\net8.0\ref\check_nam_nhuan.dll
